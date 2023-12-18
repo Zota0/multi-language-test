@@ -1,0 +1,16 @@
+{
+     "cSpell.words": [
+          "mniejsza",
+          "zmienna",
+          "Zmienna",
+          "zmiennej"
+     ],
+     "cSpell.customDictionaries": {
+          "custom-dictionary-workspace": {
+               "name": "custom-dictionary-workspace",
+               "path": "${workspaceFolder:php-infografika}/.cspell/custom-dictionary-workspace.txt",
+               "addWords": true,
+               "scope": "workspace"
+          }
+     }
+}
