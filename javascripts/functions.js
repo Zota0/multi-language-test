@@ -1,4 +1,4 @@
-export function pop(url) {
+export function redirect(url) {
     n = window.open(url, '_self')
     if(n == null) {
         return true
